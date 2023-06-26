@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qqqqeow
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Python and NodeJS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Yandex
 - 📫 How to reach me: Telegram: @qqqqeow
 
